@@ -2,6 +2,7 @@ This is the tech stack developing the web application for library management sys
 Front-end:
 
 HTML: Markup language used for structuring the page elements.
+
 CSS: Styling language used for designing the user interface.
 Additional Tools and Libraries:
 
